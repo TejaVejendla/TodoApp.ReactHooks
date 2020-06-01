@@ -1,2 +1,2 @@
 # TodoApp.ReactHooks
-TodoApp with Reract Hooks
+TodoApp with React Hooks
